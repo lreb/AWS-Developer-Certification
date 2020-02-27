@@ -18,8 +18,7 @@ Cloud Computing Services
 ### Route53
 This is a DNS (Domain Name Service) web service.
 
-### EC2 or Elastic Compute Cloud
-This is a utility designed to manage variable workloads and gives clients the ability to afford on-demand computing sources for hosting.
+### [EC2 or Elastic Compute Cloud](Autor.md)
 
 ### EBS or Elastic Block Store
 This particular utility is used to expand beyond EC2 and is designed to connect EC2 to enable the lifespan of data beyond the capacities of EC2.
@@ -28,6 +27,7 @@ This particular utility is used to expand beyond EC2 and is designed to connect 
 It is a very well-known utility among all the AWS Services and is mainly used in warehouse equipment.
 
 ### SQS
+This component has been mainly designed to act as a mediator between different controllers. This is an additional cushioning for the managers at Amazon.
 
 ### Easy Email Service
 This service allows customers and clients to address email utilization through normal SMTP or RESTFUL API.
