@@ -32,10 +32,15 @@ This component has been mainly designed to act as a mediator between different c
 ### Easy Email Service
 This service allows customers and clients to address email utilization through normal SMTP or RESTFUL API.
 
+### [WAF or Web Aplication Firewall](WAF.md)
+
+
+### Cloud Front
 
 ### Cloud Watch
 This is mainly a crisis management utility and is designed to help managers inspect and obtain additional resources in the light of a crisis.
 
+### SFW or Simple Workflow Service
 
 ## Sources
 [Autor](Autor.md)

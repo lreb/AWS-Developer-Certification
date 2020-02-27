@@ -6,8 +6,16 @@ This is a utility designed to manage variable workloads and gives clients the ab
 - AWS Elastic Compute Cloud is a computing web service which provides resizable, secure, and reliable capacity in the cloud
 - You have complete control of your EC2 computing resources.
 - You can scale up or scale down the capacity of your EC2 resources as your technical requirements change
-- You must pay only for EC2 resources that you use
+- You must pay only for EC2 resources that you use (hour)
 - You can build and boot new computing instances in only some little minutes
+- Use several OS
+- Use market place AMI (Amazon Machine Image)
+- Configure network and security yourself
+- Manage status: terminates, start, reboot
+- Can use SDK to handle it
+- Use multiple locations
+- Use static IP
+- You can attach block storage
 
 ## Security
 - Use the AWS identity and access management to control and limit access to all your AWS resources at all times.
