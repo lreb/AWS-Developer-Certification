@@ -12,6 +12,9 @@ It is the acronym for Infrastructure as a Service.
 ### SaaS or Software as a Service
 It is the acronym for Software as a Service.
 
+Cloud Computing Services
+![alt text](https://www.whizlabs.com/blog/wp-content/uploads/2019/01/cloud-computing-services.png "Cloud Computing Services")
+
 ### Route53
 This is a DNS (Domain Name Service) web service.
 
