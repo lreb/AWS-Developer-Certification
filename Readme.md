@@ -18,7 +18,7 @@ Cloud Computing Services
 ### Route53
 This is a DNS (Domain Name Service) web service.
 
-### [EC2 or Elastic Compute Cloud](Autor.md)
+### [EC2 or Elastic Compute Cloud](EC2.md)
 
 ### EBS or Elastic Block Store
 This particular utility is used to expand beyond EC2 and is designed to connect EC2 to enable the lifespan of data beyond the capacities of EC2.
