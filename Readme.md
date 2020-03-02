@@ -29,6 +29,8 @@ It is a very well-known utility among all the AWS Services and is mainly used in
 ### SQS
 This component has been mainly designed to act as a mediator between different controllers. This is an additional cushioning for the managers at Amazon.
 
+### [SNS or Simple Notification Service](SNS.md)
+
 ### Easy Email Service
 This service allows customers and clients to address email utilization through normal SMTP or RESTFUL API.
 
