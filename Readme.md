@@ -37,13 +37,16 @@ This service allows customers and clients to address email utilization through n
 
 ### [WAF or Web Aplication Firewall](WAF.md)
 
+### [DynamoDB](DynamoDB.md)
 
 ### Cloud Front
 
 ### Cloud Watch
 This is mainly a crisis management utility and is designed to help managers inspect and obtain additional resources in the light of a crisis.
 
-### SFW or Simple Workflow Service
+### [Cloud Formation](CloudFormation.md)*
+
+### [SFW or Simple Workflow Service](SFW.md) 
 
 ## Sources
 [Autor](Autor.md)
