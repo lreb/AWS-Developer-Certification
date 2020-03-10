@@ -48,3 +48,7 @@ it easy for developers to create, publish, maintain, monitor, and secure APIs at
 
 Api Gateway
 ![alt text](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/112407571/original/6fc6cb6ffe217c4258a87fe3e4db3d92aa567161/write-aws-lambda-method-and-trigger-using-api-gateway.jpg "WAF")
+
+
+
+[http api vs rest](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vs-rest.html)

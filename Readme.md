@@ -18,16 +18,17 @@ Cloud Computing Services
 ### Route53
 This is a DNS (Domain Name Service) web service.
 
-### [EC2 or Elastic Compute Cloud](EC2.md)
+### [EC2 or Elastic Compute Cloud](EC2.md)*
+
+### [EBS or Elastic Block Store](EBS.md)*
 
 ### EBS or Elastic Block Store
 This particular utility is used to expand beyond EC2 and is designed to connect EC2 to enable the lifespan of data beyond the capacities of EC2.
 
-### S3 or Simple Storage Service
-It is a very well-known utility among all the AWS Services and is mainly used in warehouse equipment.
+### [S3 or Simple Storage Service](EBS.md)*
 
-### SQS
-This component has been mainly designed to act as a mediator between different controllers. This is an additional cushioning for the managers at Amazon.
+### [SQS](SQS.md)
+
 
 ### [SNS or Simple Notification Service](SNS.md)
 
