@@ -5,4 +5,4 @@
 - FIFO (first-in-first-out) queues preserve the exact order in which messages are sent and received
 - You pay only for what you use, and there is no minimum fee.
 - The Amazon SQS Free Tier provides you with 1 million requests per month at no charge.
-- 
+- Developers can get started with Amazon SQS by using only three APIs: SendMessage, ReceiveMessage, and DeleteMessage. SaveMessage is not required.

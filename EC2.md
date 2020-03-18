@@ -17,6 +17,10 @@ This is a utility designed to manage variable workloads and gives clients the ab
 - Use static IP
 - You can attach block storage
 
+## Key pair
+
+- you can just have a key with a specific name
+
 ## Security
 - Use the AWS identity and access management to control and limit access to all your AWS resources at all times.
 - You should only allow trusted networks and hosts to have access to all ports to the instance.
