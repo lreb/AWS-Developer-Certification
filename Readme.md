@@ -3,6 +3,11 @@ platform which is designed to provide secure cloud services, computing power to 
 
 - Components written in one language can interact with components written in other languages or running on other machines, which can increase the speed of development. Software developers can then focus on business logic. The other choices are not the most significant advantages of a component-based development approach.
 
+## Infraestructure
+
+### [AWS Regions](AWSREGIONS.md)*
+designed and build to delivery the most flexible, reliable, scalable and secure cloud computing
+
 ## Service/Layers
 
 ### PaaS or Platform as a Service
