@@ -23,3 +23,4 @@ high performance block storage service designed for use with Amazon Elastic Comp
 			- Colder data requiring fewer scans per day
 			- 50 gb to 16 tb
 - you can use [Cloud watch](Cloudwatch.md)
+- Amazon EBS is a block level storage service for use with Amazon EC2. Amazon EBS can deliver performance for workloads that require the lowest-latency access to data from a single EC2 instance.

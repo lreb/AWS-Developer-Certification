@@ -4,6 +4,7 @@
 
 
 - regions 
+	-
 - Availability zones
 - Data Centers
 - PoPs

@@ -29,12 +29,34 @@ Cloud Computing Services
 
 ### [EC2 or Elastic Compute Cloud](EC2.md)*
 
-### [EBS or Elastic Block Store](EBS.md)*
 
-### EBS or Elastic Block Store
-This particular utility is used to expand beyond EC2 and is designed to connect EC2 to enable the lifespan of data beyond the capacities of EC2.
+## AWS Systems Manager Application Management
+
+### AWS Resource Groups
+
+You can use resource groups to organize your AWS resources. Resource groups make it easier to manage, monitor, and automate tasks on large numbers of resources at one time.
+
+### AWS AppConfig
+
+Use AWS AppConfig, a capability of AWS Systems Manager, to create, manage, and quickly deploy application configurations. AppConfig supports controlled deployments to applications of any size and includes built-in validation checks and monitoring. You can use AppConfig with applications hosted on Amazon EC2 instances, AWS Lambda, containers, mobile applications, or IoT devices.
+
+### [AWS Systems Manager Parameter Store](AWSSystemsManagerParameterStore.md)
+
+
+## Storage
+
+### [EFS or Elastic File System](EFS.md)
 
 ### [S3 or Simple Storage Service](EBS.md)*
+
+### [EBS or Elastic Block Store](EBS.md)*
+
+This particular utility is used to expand beyond EC2 and is designed to connect EC2 to enable the lifespan of data beyond the capacities of EC2.
+
+## Database
+
+### [Redshift](Redshift.md)*
+
 
 ### [SQS](SQS.md)
 
